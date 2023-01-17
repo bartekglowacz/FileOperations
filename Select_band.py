@@ -20,4 +20,3 @@ print(f"Tablica z częstotliwościami: {range_tab}")
 
 f = open("Tablica z częstotliwościami", "w")
 f.write(f"{range_tab}")
-print("KONIEC")
